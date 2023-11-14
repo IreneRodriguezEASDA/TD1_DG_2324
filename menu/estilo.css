@@ -1,0 +1,73 @@
+.contenedor{
+    width: 1200px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.c{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.caja1{
+    background-color:#6D214F;
+}
+
+.caja2{
+    background-color:#182C61;
+}
+
+.caja3{
+    background-color: #FC427B;
+}
+
+.caja4{
+    background-color:#BDC581;
+}
+
+.caja5{
+    background-color: #82589F;
+}
+
+.caja6{
+    background-color: #FD7272;
+}
+
+.icono{
+    
+    font-size: 50px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.texto{
+    text-align: center;
+}
+
+.enlace{
+    margin-top: 50px;
+    text-align: center;
+    width: 1200px;
+}
+
+a{
+    margin-right: 10px;
+}
+
+a:link {
+    color:#2C3A47
+}
+
+a:hover{
+    color: #55E6C1
+}
+
+a:visited {
+    color: #58B19F;
+  }
+
+  a:active {
+    color: #9AECDB;
+  }
