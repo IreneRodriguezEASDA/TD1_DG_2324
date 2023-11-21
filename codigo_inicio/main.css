@@ -1,3 +1,5 @@
+
+
 header { font-family: 'Kanit', sans-serif;
     font-family: 'Roboto Serif', serif;
 }
@@ -6,8 +8,9 @@ section {
     width: auto;
 }
 
+
 img {
-    width: 33%;
+    width: 90%;
     height: auto;
     filter: saturate(0);
 }
@@ -28,18 +31,23 @@ h1{
     padding-left: 3%;
 }
 
-.final{
-
-}
-
-.final3{float: right;
-    
-}
-
-.final2{
-    text-align: center;
-}
 
 body{
     background-color: black;
 }
+
+
+
+.final3{float: right;
+width: 33%;    
+}
+
+.final2{
+    text-align: center;
+    width: 33%;
+}
+
+.final{
+    width: 33%;
+}
+
