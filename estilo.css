@@ -5,7 +5,8 @@ section{
 
 body{
     color: white;
-    background-image: url(instapost-vcut_Mesa\ de\ trabajo\ 1.jpg);
+    background-image: url(1-mockup.jpg);
+    background-size: cover;
     width: 100%;
     height: 100%;
 }
@@ -18,6 +19,7 @@ h1{
     font-size: larger;
     text-align: center;
     font-family: 'Kanit', sans-serif;
+    color: red;
 }
 
 ul{
@@ -45,11 +47,11 @@ a{
 }
 
 a:link{
-    color: white;
+    color: blue;
 }
 
 a:visited {
-    color: pink;
+    color: red;
   }
 
   a:hover{
