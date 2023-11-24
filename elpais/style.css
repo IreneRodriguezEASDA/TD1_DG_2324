@@ -4,6 +4,7 @@
 
 header{
     background-color: midnightblue;
+    position: fixed;
     box-sizing: border-box;
     height: 60px;
     width: 100%;
