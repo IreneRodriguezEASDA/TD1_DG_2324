@@ -1,0 +1,45 @@
+*{
+    font-family: 'Kanit', sans-serif;
+
+}
+
+.risu{
+  padding-bottom: 15px;
+  font-size: larger;
+  padding-left: 20px;
+  font-family: 'Kanit', sans-serif;
+  color: rgb(240, 6, 143);
+}
+
+
+.texto1{
+    padding-top: 80px;
+    font-family: 'Kanit', sans-serif;
+    color: red;
+}
+
+.texto2{
+    color: rgb(39, 117, 241);
+    padding-top: 30px;
+}
+
+.jimin{
+    padding-bottom: 30px;
+}
+
+.hyunchan{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.card{
+    margin-left: 20px;
+}
+
+.dropdown{
+    margin-left: 20px;
+}
+
+.contact{
+    text-align: center;
+}

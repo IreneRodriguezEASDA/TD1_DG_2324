@@ -1,0 +1,50 @@
+*{
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+.tipo1{
+    font-family: 'Silkscreen', sans-serif;
+    background-color: crimson;
+}
+
+.tipo2{
+    font-family: 'Jost', sans-serif;
+    background-color: black;
+}
+
+.tipo3{
+    font-family: 'Lemon', serif;
+    background-color: darkcyan;
+}
+
+.tipo4{
+    font-family: 'Oswald', sans-serif;
+    background-color: grey;
+}
+
+.tipo5{
+    font-family: 'Kanit', sans-serif;
+    background-color: hotpink;
+}
+
+.tipo6{
+    font-family: 'Tektur', sans-serif;
+    background-color: darkslateblue;
+}
+
+.tipo7{
+    font-family: 'Bebas Neue', sans-serif;
+    background-color: salmon;
+}
+
+.tipo8{
+    font-family: 'Dancing Script', cursive;
+    background-color: cornflowerblue;
+}
+
+.tipo9{
+    font-family: 'Shadows Into Light', cursive;
+    background-color: darkslategrey;
+}
